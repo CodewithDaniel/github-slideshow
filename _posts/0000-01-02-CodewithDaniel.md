@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Thank You Shopee!
 Use the left arrow to go back!
